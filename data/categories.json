@@ -1,0 +1,34 @@
+[
+    {
+        "categoryId": 1,
+        "name": "Canned Goods"
+    },
+    {
+        "categoryId": 2,
+        "name": "Snacks & Chips"
+    },
+    {
+        "categoryId": 3,
+        "name": "Candies"
+    },        
+    {
+        "categoryId": 4,
+        "name": "Begerages"
+    },
+    {
+        "categoryId": 5,
+        "name": "Beer, Liquor & Wine"
+    },
+    {
+        "categoryId": 6,
+        "name": "Frozen Desserts"
+    },
+    {
+        "categoryId": 7,
+        "name": "Cooking Essentials"
+    },
+    {
+        "categoryId": 8,
+        "name": "Cleaning & Toiletries"
+    }
+]

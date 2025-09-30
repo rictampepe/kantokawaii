@@ -1,0 +1,86 @@
+[
+    {
+        "productId": 1,
+        "categoryId": 1,
+        "name": "Century Tuna Flakes",
+        "subTitle": "Hot And Spicy. 180 g",
+        "details": "Century Tuna Flakes Hot And Spicy offers a bold and fiery twist to your meals with its premium quality tuna flakes. Perfectly seasoned with a blend of spices, this product delivers a spicy kick that is sure to satisfy those who crave heat. Ideal for quick meals, sandwiches, or as a topping for salads, these tuna flakes are a versatile addition to any kitchen.",
+        "thumbnail": "1_th.jpg",
+        "image": "1.jpg",
+        "price": 48.00,
+        "isNew": false,
+        "isFeatured": true
+    },
+    {
+        "productId": 2,
+        "categoryId": 1,
+        "name": "555 Sardines Spanish Style",
+        "subTitle": "155 g",
+        "details": "Savor special sardines slow-cooked with select spices to give it that classic blend of Spanish flavors that can be enjoyed every day.",
+        "thumbnail": "2_th.jpg",
+        "image": "2.jpg",
+        "price": 33.50,
+        "isNew": false,
+        "isFeatured": false
+    },
+    {
+        "productId": 3,
+        "categoryId": 1,
+        "name": "Spam Luncheon Meat",
+        "subTitle": "Regular. 12 oz",
+        "details": "Spam Luncheon Meat Regular is a versatile canned meat product made from high-quality pork, offering a convenient and tasty option for meals. Its rich flavor and tender texture make it perfect for sandwiches, salads, or as a main ingredient in various dishes. Simply slice, dice, or fry it to add a savory touch to your favorite recipes.",
+        "thumbnail": "3_th.jpg",
+        "image": "3.jpg",
+        "price": 218.00,
+        "isNew": false,
+        "isFeatured": true
+    },
+    {
+        "productId": 4,
+        "categoryId": 2,
+        "name": "Clover Chips",
+        "subTitle": "Cheese. 55 g",
+        "details": "Clover Chips Cheese offers a delightful crunch combined with a rich, cheesy flavor that is perfect for snacking any time of the day. Each chip is crafted to deliver a satisfying taste experience that cheese lovers will adore. Whether you're enjoying a movie night or a casual gathering, Clover Chips Cheese is an ideal choice to satisfy your savory cravings.",
+        "thumbnail": "4_th.png",
+        "image": "4.png",
+        "price": 25.25,
+        "isNew": false,
+        "isFeatured": true
+    },
+    {
+        "productId": 5,
+        "categoryId": 2,
+        "name": "Roller Coaster",
+        "subTitle": "Cheese. 85 g",
+        "details": "Jack 'n Jill Roller Coaster Buddy Size - Cheese offers a delightful snacking experience with its crunchy cheese-flavored potato rings. Perfect for sharing, this snack is ideal for parties or movie nights. Enjoy the bold cheese flavor and satisfying crunch in every bite.",
+        "thumbnail": "5_th.png",
+        "image": "5.png",
+        "price": 24.95,
+        "isNew": false,
+        "isFeatured": true
+    },
+    {
+        "productId": 6,
+        "categoryId": 3,
+        "name": "Ricoa Flat Tops",
+        "subTitle": "50 g x 10pcs",
+        "details": "Ricoa Flat Tops 10 pcs is a delightful treat featuring rich chocolate pieces known for their smooth texture and sweet taste. Perfect for sharing or enjoying as a quick snack, these individually wrapped chocolates offer a burst of flavor in every bite. Whether you're indulging yourself or gifting them to a friend, Ricoa Flat Tops are sure to satisfy any sweet tooth.",
+        "thumbnail": "6_th.png",
+        "image": "6.png",
+        "price": 17.30,
+        "isNew": false,
+        "isFeatured": true
+    },
+    {
+        "productId": 7,
+        "categoryId": 3,
+        "name": "Judge Chewing Gum",
+        "subTitle": "Bricks Spearmint. 3.4 g x 50 pcs",
+        "details": "Judge Bricks Spearmint Chewing Gum brings a refreshing burst of minty freshness with every chew. Perfect for keeping your breath fresh throughout the day, this gum is crafted with quality ingredients to ensure a long-lasting flavor. Its convenient packaging makes it easy to carry in your pocket or bag, so you can enjoy a fresh breath boost whenever you need it. Whether you're at work, on a date, or just out and about, Judge Bricks Spearmint Chewing Gum is your go-to for a quick and easy refresh.",
+        "thumbnail": "7_th.png",
+        "image": "7.png",
+        "price": 42.35,
+        "isNew": false,
+        "isFeatured": true
+    }
+]
