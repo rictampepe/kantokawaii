@@ -32,10 +32,3 @@
 	}, false);
 
 })(window, document);
-
-$(document).ready(function() {
-	var currentPage = window.location.pathname.replace("/", "");
-	$("a[class='nav-link'][href='" + currentPage + "']").addClass("active");
-
-	InitializeShoppingCart();
-});

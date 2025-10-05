@@ -1,0 +1,22 @@
+<div class="col-lg-3 col-md-6">
+    <div class="product-item mb-30">
+        <a href="single_product_view.html" class="product-img">
+            <img src="images/product/${{ProductImage}}" alt="">        
+        </a>
+        <div class="product-text-dt">
+            <div class="product-price">&#8369;${{ProductPrice}}</div>
+            <h4>${{ProductName}}</h4>
+            <p>${{ProductSubTitle}}</p>
+            <div class="qty-cart" data-bs-product-id="${{ProductId}}">
+                <div class="quantity buttons_added col-auto me-auto">
+                    <input type="button" value="-" class="minus minus-btn">
+                    <input type="number" step="1" name="quantity" value="1" class="input-text qty text">
+                    <input type="button" value="+" class="plus plus-btn">
+                </div>
+                <div class="col-auto">
+                    <button type="button" class="add-cart-btn-sm hover-btn" data-bs-product-id="${{ProductId}}" data-bs-product-price="${{ProductPrice}}"><i class="uil uil-shopping-cart-alt"></i>Add To Cart</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -29,7 +29,7 @@ String.prototype.getDecimals || (String.prototype.getDecimals = function() {
 });
 
 /*--- wishlist script ---*/
-$(document).ready(function() {	
+$(document).ready(function() {
 	LoadCategories();
 	LoadProducts();
 	LoadSiteComponents();
@@ -153,60 +153,6 @@ $('.life-slider').owlCarousel({
 		},
 		1400:{
 			items:3
-		}
-	}
-})
-
-// Testimonials Slider
-$('.testimonial-slider').owlCarousel({
-	loop:true,
-    margin:30,
-	nav:true,
-	dots:false,
-	autoplay:true,
-    autoplayTimeout: 3000,
-    autoplayHoverPause:true,
-	navText: ["<i class='uil uil-angle-left'></i>", "<i class='uil uil-angle-right'></i>"],
-	responsive:{
-		0:{
-			items:1
-		},
-		600:{
-			items:2
-		},
-		1000:{
-			items:2
-		},
-		1200:{
-			items:3
-		},
-		1400:{
-			items:3
-		}
-	}
-})
-
-// Category Slider
-$('.team-slider').owlCarousel({
-	loop:true,
-	margin:20,
-	nav:false,
-	dots:false,
-	responsive:{
-		0:{
-			items:1
-		},
-		600:{
-			items:2
-		},
-		1000:{
-			items:3
-		},
-		1200:{
-			items:4
-		},
-		1400:{
-			items:4
 		}
 	}
 })

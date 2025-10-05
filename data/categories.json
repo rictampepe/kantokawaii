@@ -1,34 +1,42 @@
 [
     {
         "categoryId": 1,
-        "name": "Canned Goods"
+        "name": "Canned Goods",
+        "productIds": [1,2,3,8,9,10,11,12,13,14,15]
     },
     {
         "categoryId": 2,
-        "name": "Snacks & Chips"
+        "name": "Snacks & Chips",
+        "productIds": [4,5,16,17,18,19,20,21,22,23,24,25,26,27]
     },
     {
         "categoryId": 3,
-        "name": "Candies"
+        "name": "Candies",
+        "productIds": [6,7,68,69,70,71,72,73,74,75,76,77,78,79,80]
     },        
     {
         "categoryId": 4,
-        "name": "Begerages"
+        "name": "Begerages",
+        "productIds": [49,50,51,52,53,54,55,56,57,58]
     },
     {
         "categoryId": 5,
-        "name": "Beer, Liquor & Wine"
+        "name": "Beer, Liquor & Wine",
+        "productIds": [97,98,99,100,101,102,103,104,105,106]
     },
     {
         "categoryId": 6,
-        "name": "Frozen Desserts"
+        "name": "Frozen Desserts",
+        "productIds": [59,60,61,62,63,64,65,66,67]
     },
     {
         "categoryId": 7,
-        "name": "Cooking Essentials"
+        "name": "Cooking Essentials",
+        "productIds": [38,39,40,41,42,43,44,45,46,47,48]
     },
     {
         "categoryId": 8,
-        "name": "Cleaning & Toiletries"
+        "name": "Cleaning & Toiletries",
+        "productIds": [28,29,30,31,32,33,34,35,36,37]
     }
 ]
