@@ -43,165 +43,13 @@
 					<div class="cate-header">
 						<h4>Select Category</h4>
 					</div>
-                    <ul class="category-by-cat">
-						<li>
-							<a href="#" class="single-cat-item">
-								<div class="icon">
-									<img src="images/category/icon-1.svg" alt="">
-								</div>
-								<div class="text"> Fruits and Vegetables </div>
-							</a>
-						</li>
-						<li>
-							<a href="#" class="single-cat-item">
-								<div class="icon">
-									<img src="images/category/icon-2.svg" alt="">
-								</div>
-								<div class="text"> Grocery & Staples </div>
-							</a>
-						</li>
-						<li>
-							<a href="#" class="single-cat-item">
-								<div class="icon">
-									<img src="images/category/icon-3.svg" alt="">
-								</div>
-								<div class="text"> Dairy & Eggs </div>
-							</a>
-						</li>
-						<li>
-							<a href="#" class="single-cat-item">
-								<div class="icon">
-									<img src="images/category/icon-4.svg" alt="">
-								</div>
-								<div class="text"> Beverages </div>
-							</a>
-						</li>
-						<li>
-							<a href="#" class="single-cat-item">
-								<div class="icon">
-									<img src="images/category/icon-5.svg" alt="">
-								</div>
-								<div class="text"> Snacks </div>
-							</a>
-						</li>
-						<li>
-							<a href="#" class="single-cat-item">
-								<div class="icon">
-									<img src="images/category/icon-6.svg" alt="">
-								</div>
-								<div class="text"> Home Care </div>
-							</a>
-						</li>
-						<li>
-							<a href="#" class="single-cat-item">
-								<div class="icon">
-									<img src="images/category/icon-7.svg" alt="">
-								</div>
-								<div class="text"> Noodles & Sauces </div>
-							</a>
-						</li>
-						<li>
-							<a href="#" class="single-cat-item">
-								<div class="icon">
-									<img src="images/category/icon-8.svg" alt="">
-								</div>
-								<div class="text"> Personal Care </div>
-							</a>
-						</li>
-						<li>
-							<a href="#" class="single-cat-item">
-								<div class="icon">
-									<img src="images/category/icon-9.svg" alt="">
-								</div>
-								<div class="text"> Pet Care </div>
-							</a>
-						</li>
-                    </ul>
+                    <ul class="category-by-cat" id="modal-category"></ul>
 					<a href="#" class="morecate-btn"><i class="uil uil-apps"></i>More Categories</a>
                 </div>
             </div>
         </div>
     </div>
 	<!-- Category Model End-->
-	<!-- Search Model Start-->
-	<div id="search_model" class="header-cate-model main-gambo-model modal fade" tabindex="-1" role="dialog" aria-modal="false">
-        <div class="modal-dialog search-ground-area" role="document">
-            <div class="category-area-inner">
-                <div class="modal-header">
-                    <button type="button" class="close btn-close" data-dismiss="modal" aria-label="Close">
-						<i class="uil uil-multiply"></i>
-                    </button>
-                </div>
-                <div class="category-model-content modal-content"> 
-					<div class="search-header">
-						<form action="#">
-							<input type="search" placeholder="Search for products...">
-							<button type="submit"><i class="uil uil-search"></i></button>
-						</form>
-					</div>
-					<div class="search-by-cat">
-                        <a href="#" class="single-cat">
-                            <div class="icon">
-								<img src="images/category/icon-1.svg" alt="">
-                            </div>
-                            <div class="text">
-                                Fruits and Vegetables
-                            </div>
-                        </a>
-						<a href="#" class="single-cat">
-							<div class="icon">
-								<img src="images/category/icon-2.svg" alt="">
-							</div>
-							<div class="text"> Grocery & Staples </div>
-						</a>
-						<a href="#" class="single-cat">
-							<div class="icon">
-								<img src="images/category/icon-3.svg" alt="">
-							</div>
-							<div class="text"> Dairy & Eggs </div>
-						</a>
-						<a href="#" class="single-cat">
-							<div class="icon">
-								<img src="images/category/icon-4.svg" alt="">
-							</div>
-							<div class="text"> Beverages </div>
-						</a>
-						<a href="#" class="single-cat">
-							<div class="icon">
-								<img src="images/category/icon-5.svg" alt="">
-							</div>
-							<div class="text"> Snacks </div>
-						</a>
-						<a href="#" class="single-cat">
-							<div class="icon">
-								<img src="images/category/icon-6.svg" alt="">
-							</div>
-							<div class="text"> Home Care </div>
-						</a>
-						<a href="#" class="single-cat">
-							<div class="icon">
-								<img src="images/category/icon-7.svg" alt="">
-							</div>
-							<div class="text"> Noodles & Sauces </div>
-						</a>
-						<a href="#" class="single-cat">
-							<div class="icon">
-								<img src="images/category/icon-8.svg" alt="">
-							</div>
-							<div class="text"> Personal Care </div>
-						</a>
-						<a href="#" class="single-cat">
-							<div class="icon">
-								<img src="images/category/icon-9.svg" alt="">
-							</div>
-							<div class="text"> Pet Care </div>
-						</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-	<!-- Search Model End-->
 	<!-- Cart Sidebar Offcanvas Start-->
 	<div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight" aria-labelledby="offcanvasRightLabel"></div>
 	<!-- Cart Sidebar Offcanvas End-->
@@ -235,7 +83,7 @@
 							<img src="images/line.svg" alt="">
 						</div>
 						<div class="about-content">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac sodales sapien. Sed pellentesque, quam in ornare tincidunt, magna augue placerat nunc, ut facilisis nibh ipsum non ipsum. Cras ac eros non neque viverra consequat sed at est. Fusce efficitur, lacus nec dignissim tincidunt, diam sapien rhoncus neque, at tristique sapien nibh sed neque. Proin in neque in purus luctus facilisis. Donec viverra ligula quis lorem viverra consequat. Aliquam condimentum id enim volutpat rutrum. Donec semper iaculis convallis. Praesent quis elit eget ligula facilisis mattis. Praesent sed euismod dui. Suspendisse imperdiet vel quam nec venenatis. Suspendisse dictum blandit quam, vitae auctor enim gravida et. Sed id dictum nibh. Proin egestas massa sit amet tincidunt aliquet.</p>
+							<p>Welcome to Kanto Kawaii your favorite virtual sari-sari store! We're a simulated online marketplace where you can explore, shop, and collect a wide variety of fun and quirky items. Our website is designed to bring a touch of Filipino charm and whimsy to your online shopping experience. From cute icons to playful graphics, our website is full of fun design elements that will excite you. Our website is only a simulation of situations in your typical sari-sari store—but made cuter, just for your liking! That's why we've designed our website by being focused on cuteness, whimsy, and fun.</p>
 						</div>
 					</div>
 					<div class="col-lg-6">
@@ -302,52 +150,52 @@
 								<div class="item">
 									<div class="team-item">
 										<div class="team-img">
-											<img src="images/team/img-1.jpg" alt="">
+											<img src="images/team/creiane.png" alt="">
 										</div>
-										<h4>Joginder Singh</h4>
-										<span>CEO & Co-Founder</span>
+										<h4>Briones, Ji Creiane R.</h4>
+										<span>jicreiane@gmail.com</span>
 										<ul class="team-social">
-											<li><a href="https://www.facebook.com/" class="scl-btn hover-btn" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-											<li><a href="https://www.linkedin.com/" class="scl-btn hover-btn" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+											<li><a href="https://www.facebook.com/Ji%20Creiane" class="scl-btn hover-btn" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+											<li><a href="https://instagram.com/shucurimu" class="scl-btn hover-btn" target="_blank"><i class="fab fa-instagram"></i></a></li>
 										</ul>
 									</div>
 								</div>
 								<div class="item">
 									<div class="team-item">
 										<div class="team-img">
-											<img src="images/team/img-2.jpg" alt="">
+											<img src="images/team/nekesha.png" alt="">
 										</div>
-										<h4>John Doe</h4>
-										<span>CTO & Senior Developer</span>
+										<h4>De Los Santos, Nekesha Prielle L.</h4>
+										<span>okpriel@gmail.com</span>
 										<ul class="team-social">
-											<li><a href="https://www.facebook.com/" class="scl-btn hover-btn" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-											<li><a href="https://www.linkedin.com/" class="scl-btn hover-btn" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+											<li><a href="https://www.facebook.com/Prielle%20De%20Los%20Santos" class="scl-btn hover-btn" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+											<li><a href="https://instagram.com/yellimiuu" class="scl-btn hover-btn" target="_blank"><i class="fab fa-instagram"></i></a></li>
 										</ul>
 									</div>
 								</div>
 								<div class="item">
 									<div class="team-item">
 										<div class="team-img">
-											<img src="images/team/img-3.jpg" alt="">
+											<img src="images/team/gilary.png" alt="">
 										</div>
-										<h4>Jassica William</h4>
-										<span>HR Manager</span>
+										<h4>Ellao, Gilary Nicolai M.</h4>
+										<span>nichokenneth0@gmail.com</span>
 										<ul class="team-social">
-											<li><a href="https://www.facebook.com/" class="scl-btn hover-btn" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-											<li><a href="https://www.linkedin.com/" class="scl-btn hover-btn" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+											<li><a href="https://www.facebook.com/Gilary%20Nicolai" class="scl-btn hover-btn" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+											<li><a href="https://instagram.com/nicho.lixs" class="scl-btn hover-btn" target="_blank"><i class="fab fa-instagram"></i></a></li>
 										</ul>
 									</div>
 								</div>
 								<div class="item">
 									<div class="team-item">
 										<div class="team-img">
-											<img src="images/team/img-4.jpg" alt="">
+											<img src="images/team/darlene.png" alt="">
 										</div>
-										<h4>Zoena Singh</h4>
-										<span>Senior Sales Manager</span>
+										<h4>Quiambao, Darlene T.</h4>
+										<span>darlenequiambao12345@gmail.com</span>
 										<ul class="team-social">
-											<li><a href="https://www.facebook.com/" class="scl-btn hover-btn" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-											<li><a href="https://www.linkedin.com/" class="scl-btn hover-btn" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+											<li><a href="https://www.facebook.com/Darlene%20Quiambao" class="scl-btn hover-btn" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+											<li><a href="https://instagram.com/drlnqmb" class="scl-btn hover-btn" target="_blank"><i class="fab fa-instagram"></i></a></li>
 										</ul>
 									</div>
 								</div>
@@ -421,7 +269,109 @@
 	</div>
 	<!-- Body End -->
 	<!-- Footer Start -->
-	<footer class="footer"></footer>
+	<footer class="footer">
+		<div class="border-bottom border-secondary py-3 border-opacity-25">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6 col-sm-6">
+						<ul class="call-email-alt">
+							<li><a href="#" class="callemail"><i class="uil uil-dialpad-alt"></i>(63)2-1234-5678</a></li>
+							<li><a href="#" class="callemail"><i class="uil uil-envelope-alt"></i>info@kantokawaii.com</a></li>
+						</ul>
+					</div>
+					<div class="col-md-6 col-sm-6">
+						<div class="social-links-footer">
+							<ul></ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+		</div>
+		<div class="footer-second-row">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-3 col-md-6 col-6">
+						<div class="second-row-item">
+							<h4>Categories</h4>
+							<ul id="footer-categories"></ul>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-6 col-6">
+						<div class="second-row-item">
+							<h4>Useful Links</h4>
+							<ul id="footer-links"></ul>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-6 col-6">
+						<div class="second-row-item">
+							<h4>Top Cities</h4>
+							<ul id="footer-cities"></ul>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-6 col-6">
+						<div class="second-row-item-app">
+							<h4>Download App</h4>
+							<ul>
+								<li><a href="#"><img class="download-btn mb-2" src="images/download-1.svg" alt=""></a></li>
+								<li><a href="#"><img class="download-btn mb-2" src="images/download-2.svg" alt=""></a></li>
+							</ul>
+						</div>
+						<div class="second-row-item-payment">
+							<h4>Payment Method</h4>
+							<div class="footer-payments">
+								<ul id="paypal-gateway" class="financial-institutes">
+									<li class="financial-institutes__logo">
+									  <img alt="Visa" title="Visa" src="images/footer-icons/pyicon-6.svg">
+									</li>
+									<li class="financial-institutes__logo">
+									  <img alt="Visa" title="Visa" src="images/footer-icons/pyicon-1.svg">
+									</li>
+									<li class="financial-institutes__logo">
+									  <img alt="MasterCard" title="MasterCard" src="images/footer-icons/pyicon-2.svg">
+									</li>
+									<li class="financial-institutes__logo">
+									  <img alt="American Express" title="American Express" src="images/footer-icons/pyicon-3.svg">
+									</li>
+									<li class="financial-institutes__logo">
+									  <img alt="Discover" title="Discover" src="images/footer-icons/pyicon-4.svg">
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div class="second-row-item-payment">
+							<h4>Newsletter</h4>
+							<div class="newsletter-input">
+								<input id="email" name="email" type="text" placeholder="Email Address" class="form-control input-md" required="" autocomplete="email">
+								<button class="newsletter-btn hover-btn" type="submit"><i class="uil uil-telegram-alt"></i></button>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer-last-row">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="footer-bottom-group">
+							<div class="footer-bottom-links">
+								<ul>
+									<li><a href="about_us.html">About</a></li>
+									<li><a href="contact_us.html">Contact</a></li>
+									<li><a href="privacy_policy.html">Privacy Policy</a></li>
+									<li><a href="term_and_conditions.html">Term & Conditions</a></li>
+									<li><a href="refund_and_return_policy.html">Refund & Return Policy</a></li>
+								</ul>
+							</div>
+							<div class="copyright-text">
+								<i class="uil uil-copyright"></i>Copyright 2025 <b>Kanto Kawaii</b> . All rights reserved
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
 	<!-- Footer End -->
 
 	<!-- Javascripts -->
@@ -429,11 +379,9 @@
 	<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 	<script src="vendor/bootstrap-select/js/bootstrap-select.min.js"></script>
 	<script src="vendor/OwlCarousel/owl.carousel.js"></script>
-	<script src="js/jquery.countdown.min.js"></script>
-	<script src="js/data-resource.js"></script>
-	<script src="js/global-functions.js"></script>
-	<script src="js/custom.js"></script>
-	<script src="js/product.thumbnail.slider.js"></script>
+	<script src="js/kanto_common.min.js"></script>
+	<script src="js/global.js"></script>
+	<script src="js/about_us.js"></script>	
 	<script src="js/offset_overlay.js"></script>
 	
 </body>

@@ -1,7 +1,21 @@
 
 
 function LoadCategories() {
-    var categorySlider = $("#category-slider-items");
+    // var categorySlider = $("#category-slider-items");
+
+    // $.each(Categories, function(_idx, item) {
+    //     $("#modal-category").append("<li><a href='category.html?catId=" + item.categoryId + "' class='single-cat-item'><div class='icon'><img src='images/category/" + item.categoryId + ".svg' alt=''></div><div class='text'>" + item.name + "</div></a></li>");
+
+    //     if (categorySlider.length > 0) {
+    //         categorySlider.append("<div class='item'><a href='category.html?catId=" + item.categoryId + "' class='category-item'><div class='cate-img'><img src='images/category/" + item.categoryId + ".png'></div><h4>" + item.name + "</h4></a></div>");
+    //     }
+    // });
+    
+    // if (categorySlider.length > 0) {
+    //     $("#category-slider-section").removeClass("invisible");
+    //     InitializeCategorySlider();
+    // }
+
     // if (Categories.length == 0) {
     //     $.ajax({
     //         url: 'data/categories.json',            
@@ -25,18 +39,7 @@ function LoadCategories() {
     //         }
     //     });
     // }
-    $.each(Categories, function(_idx, item) {
-        $("#modal-category").append("<li><a href='category.html?catId=" + item.categoryId + "' class='single-cat-item'><div class='icon'><img src='images/category/" + item.categoryId + ".svg' alt=''></div><div class='text'>" + item.name + "</div></a></li>");
-
-        if (categorySlider.length > 0) {
-            categorySlider.append("<div class='item'><a href='category.html?catId=" + item.categoryId + "' class='category-item'><div class='cate-img'><img src='images/category/" + item.categoryId + ".png'></div><h4>" + item.name + "</h4></a></div>");
-        }
-    });
-    
-    if (categorySlider.length > 0) {
-        $("#category-slider-section").removeClass("invisible");
-        InitializeCategorySlider();
-    }    
+        
 }
 
 function LoadProducts() {
@@ -87,7 +90,7 @@ function LoadFeaturedProducts() {
 }
 
 function LoadSiteComponents() {    
-    $("footer[class='footer']").load("page-footer.html");
+    //$("footer[class='footer']").load("page-footer.html");
     //$("header[class='header clearfix']").load("page-header.html");
     $.ajax({
         url: 'page-header.html',

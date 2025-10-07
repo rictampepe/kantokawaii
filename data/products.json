@@ -1,1168 +1,956 @@
 [
-    {
-      "productId": 1,
-      "name": "Century Tuna Flakes",
-      "subTitle": "Hot And Spicy. 180 g",
-      "details": "Healthy na, spicy pa! Perfect pampagana at pampabusog!",
-      "thumbnail": "1_th.jpg",
-      "image": "1.jpg",
-      "price": 48,
-      "isNew": false,
-      "isFeatured": true
-    },
-    {
-      "productId": 2,
-      "name": "555 Sardines Spanish Style",
-      "subTitle": "155 g",
-      "details": "Sosyal na sardinas with Spanish flavor! Sarap sa pasta, tinapay, o kanin!",
-      "thumbnail": "2_th.jpg",
-      "image": "2.jpg",
-      "price": 33.5,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 3,
-      "name": "Spam Luncheon Meat",
-      "subTitle": "Regular. 12 oz",
-      "details": "The all-time favorite ulam! Juicy, meaty, at laging masarap!",
-      "thumbnail": "3_th.jpg",
-      "image": "3.jpg",
-      "price": 218,
-      "isNew": false,
-      "isFeatured": true
-    },
-    {
-      "productId": 4,
-      "name": "Clover Chips",
-      "subTitle": "Cheese. 55 g",
-      "details": "Cheesy goodness in every bite! Laging kasama sa kwentuhan at inuman!",
-      "thumbnail": "4_th.png",
-      "image": "4.png",
-      "price": 25.25,
-      "isNew": false,
-      "isFeatured": true
-    },
-    {
-      "productId": 5,
-      "name": "Roller Coaster",
-      "subTitle": "Cheddar Cheese Rings. 85 g",
-      "details": "Fun-to-eat cheese rings! Suotin sa daliri tapos kainin, enjoy to the max!",
-      "thumbnail": "5_th.png",
-      "image": "5.png",
-      "price": 24.95,
-      "isNew": false,
-      "isFeatured": true
-    },
-    {
-      "productId": 6,
-      "name": "Ricoa Flat Tops",
-      "subTitle": "50 g",
-      "details": "Chocolate na melt-in-your-mouth ang sarap! Laging kasama sa childhood memories!",
-      "thumbnail": "6_th.png",
-      "image": "6.png",
-      "price": 17.3,
-      "isNew": false,
-      "isFeatured": true
-    },
-    {
-      "productId": 7,
-      "name": "Judge Chewing Gum",
-      "subTitle": "Bricks Spearmint. 3.4 g",
-      "details": "Big, long-lasting chewing gum na swak pang-pafresh ng hininga!",
-      "thumbnail": "7_th.png",
-      "image": "7.png",
-      "price": 42.35,
-      "isNew": false,
-      "isFeatured": true
-    },
-    {
-      "productId": 8,
-      "name": "San Marino Corned Tuna",
-      "subTitle": "180 g",
-      "details": "Tuna na parang corned beef! Tipid, healthy at swak sa kanin!",
-      "thumbnail": "8_th.png",
-      "image": "8.png",
-      "price": 46.5,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 9,
-      "name": "Alaska Evaporated Milk",
-      "subTitle": "Classic Evaporated Filled Milk. 140 mL",
-      "details": "Creamy goodness in every sip! Pampasarap sa kape, sabaw, at lutuin!",
-      "thumbnail": "9_th.png",
-      "image": "9.png",
-      "price": 59.7,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 10,
-      "name": "Alaska Condensed Milk",
-      "subTitle": "Classic Sweetened Filled Milk. 168 mL",
-      "details": "Sweet and yummy! Pang-dessert, pang-merienda, o kahit tikim direkta!",
-      "thumbnail": "10_th.png",
-      "image": "10.png",
-      "price": 48.3,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 11,
-      "name": "Jolly Mushrooms",
-      "subTitle": "Pieces & Stems. 115 g",
-      "details": "Level up ang ulam mo! Pizza, pasta, o gulay, dagdag sarap agad!",
-      "thumbnail": "11_th.png",
-      "image": "11.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 12,
-      "name": "555 Sardines",
-      "subTitle": "Sardines in Tomato Sauce (Hot). 180 g",
-      "details": "Paboritong spicy sardinas ng Pinoy! Laging panalo sa kanin fight!",
-      "thumbnail": "12_th.png",
-      "image": "12.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 13,
-      "name": "Purefoods Corned Beef",
-      "subTitle": "Classic Corned Beef. 150 g",
-      "details": "Classic na corned beef! Malasa, chunky at perfect sa garlic rice!",
-      "thumbnail": "13_th.png",
-      "image": "13.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 14,
-      "name": "Argentina Corned Beef",
-      "subTitle": "Classic Corned Beef. 100 g",
-      "details": "Sulit na sulit sa presyo! Masarap sa breakfast o midnight snack!",
-      "thumbnail": "14_th.png",
-      "image": "14.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 15,
-      "name": "MaLing Luncheon Meat",
-      "subTitle": "Chicken Luncheon Meat. 397 g",
-      "details": "Juicy at malinamnam! Laging hit kapag pritong ulam ang usapan!\n",
-      "thumbnail": "15_th.png",
-      "image": "15.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 16,
-      "name": "Jack 'n Jill Chicharron ni Mang Juan",
-      "subTitle": "Espesyal Suka't Sili. 26 g",
-      "details": "Chicharon na walang pork! Maasim, maanghang at sobrang crunchy!",
-      "thumbnail": "16_th.png",
-      "image": "16.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 17,
-      "name": "Oishi Marty's Cracklin'",
-      "subTitle": "Plain Salted. 90 g",
-      "details": "Chicharon-style na walang guilt! Puro crunch at sarap lang!",
-      "thumbnail": "17_th.png",
-      "image": "17.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 18,
-      "name": "Jack 'n Jill Chiz Curls",
-      "subTitle": "Cheese. 18 g",
-      "details": "Classic corn curls na cheesy! Paborito ng mga bata at pang-baon lagi!",
-      "thumbnail": "18_th.png",
-      "image": "18.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 19,
-      "name": "Oishi Crispy Patata",
-      "subTitle": "Baked Potato. 24 g",
-      "details": "Light and crispy potato snack! Swak sa movie time o merienda!",
-      "thumbnail": "19_th.png",
-      "image": "19.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 20,
-      "name": "Jack 'n Jill Nova",
-      "subTitle": "Country Cheddar. 40 g",
-      "details": "Cheesy multigrain goodness! Pang-snack na guilt-free ang vibe!",
-      "thumbnail": "20_th.png",
-      "image": "20.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 21,
-      "name": "Jack 'n Jill Chippy",
-      "subTitle": "Barbecue Corn Chips. 25 g",
-      "details": "The barkada favorite! Barbecue flavor na laging hit sa tambayan!",
-      "thumbnail": "21_th.png",
-      "image": "21.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 22,
-      "name": "Jack 'n Jill Piattos",
-      "subTitle": "Cheese. 40 g",
-      "details": "Diamond-shaped cheesy chips! Sosyal ang itsura, sarap pa rin pang-meryenda!\n",
-      "thumbnail": "22_th.png",
-      "image": "22.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 23,
-      "name": "Oishi Prawn Crackers",
-      "subTitle": "Prawn Crackers. 24 g",
-      "details": "Light and crispy prawn crackers! Laging Pinoy favorite!",
-      "thumbnail": "23_th.png",
-      "image": "23.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 24,
-      "name": "Jack 'n Jill Piattos",
-      "subTitle": "Cheese. 25 g",
-      "details": "Orange cheesy rings! Swak isuot sa daliri bago kainin!",
-      "thumbnail": "24_th.png",
-      "image": "24.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 25,
-      "name": "Oishi Ribbed Cracklings",
-      "subTitle": "Salt &Vinegar. 90 g",
-      "details": "Maalat, maasim at crunchy! Snack na mapapapikit ka sa sarap!",
-      "thumbnail": "25_th.png",
-      "image": "25.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 26,
-      "name": "Jack 'n Jill Piattos",
-      "subTitle": "Sour Cream & Onion. 40 g",
-      "details": "Piattos na may sour cream twist! Tangy, creamy at crunchy all in one!",
-      "thumbnail": "26_th.png",
-      "image": "26.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 27,
-      "name": "Jack 'n Jill Piattos",
-      "subTitle": "Roast Beef. 40 g",
-      "details": "Beefy chips goodness! Parang ulam ang sarap sa bawat bite!",
-      "thumbnail": "27_th.png",
-      "image": "27.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 28,
-      "name": "Closeup Ever Fresh Toothpaste",
-      "subTitle": "Red Hot. 10 g",
-      "details": "Fresh breath all day! Minty toothpaste na laging panalo sa smile mo!",
-      "thumbnail": "28_th.png",
-      "image": "28.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 29,
-      "name": "Palmolive Naturals Shampoo and Conditioner",
-      "subTitle": "Coconut Cream Sachet Pack. 15 mL",
-      "details": "Smooth and soft skin feels! Mabango at refreshing sa bawat paligo!",
-      "thumbnail": "29_th.png",
-      "image": "29.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 30,
-      "name": "Joy Dishwashing Liquid",
-      "subTitle": "Kalamansi Refill. 355 mL",
-      "details": "Tanggal sebo, mabango pa! Konti lang, todo bula na sa hugasin!",
-      "thumbnail": "30_th.png",
-      "image": "30.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 31,
-      "name": "Ariel Powder",
-      "subTitle": "Sunrise Fresh Powder Tripid Pack. 66 g",
-      "details": "Doble laba, doble linis! Amoy fresh at super linis ng labada!",
-      "thumbnail": "31_th.png",
-      "image": "31.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 32,
-      "name": "Pantene Shampoo",
-      "subTitle": "Hair Fall Control Sachet Pack. 12 mL",
-      "details": "Bye-bye hair fall! Strong and shiny hair na amoy bango all day!",
-      "thumbnail": "32_th.png",
-      "image": "32.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 33,
-      "name": "Safeguard Soap",
-      "subTitle": "Jumbo Bar - Pure White. 160 g",
-      "details": "99.9% germ protection! Matibay sa germs, mabango sa katawan!",
-      "thumbnail": "33_th.png",
-      "image": "33.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 34,
-      "name": "Downy Fabric Conditioner",
-      "subTitle": "Sunrise Fresh Tripic Pack. 3 x 75mL",
-      "details": "Super bango ng labada! Amoy fresh kahit ilang araw naka-fold!",
-      "thumbnail": "34_th.png",
-      "image": "34.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 35,
-      "name": "Pride Detergent Powder",
-      "subTitle": "Blue Pack. 40 g",
-      "details": "Tanggal mantsa at amoy fresh! Trusted panglaba ng maraming Pinoy!",
-      "thumbnail": "35_th.png",
-      "image": "35.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 36,
-      "name": "Tide Bar",
-      "subTitle": "Original Scent. 125 g",
-      "details": "Matibay sa mantsa! Paborito sa kusot-kusot na labada!",
-      "thumbnail": "36_th.png",
-      "image": "36.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 37,
-      "name": "Zonrox Bleach",
-      "subTitle": "Original. 250 mL",
-      "details": "Pangtanggal ng mantsa at germs! Siguradong linis at puti ng labada!\n",
-      "thumbnail": "37_th.png",
-      "image": "37.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 38,
-      "name": "Knorr Chicken Broth Cube",
-      "subTitle": "Chicken. 10 g",
-      "details": "Palaman sa sabaw at luto! Rich chicken flavor na nagpapasarap ng kahit anong ulam!",
-      "thumbnail": "38_th.png",
-      "image": "38.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 39,
-      "name": "Knorr Beef Broth Cube",
-      "subTitle": "Beef. 10 g",
-      "details": "Malinamnam na beefy taste! Perfect pampalasa sa nilaga at iba pang lutong bahay!",
-      "thumbnail": "39_th.png",
-      "image": "39.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 40,
-      "name": "Knorr Pork Broth Cube",
-      "subTitle": "Pork. 10 g",
-      "details": "Rich pork flavor! Swak na pampalasa sa ginisa at sabaw!",
-      "thumbnail": "40_th.png",
-      "image": "40.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 41,
-      "name": "Del Monte Tomato Sauce",
-      "subTitle": "Original Style. 250 g ",
-      "details": "Rich tomato goodness! Paboritong pang-gisa at pang-luto ng ulam ng Pinoy!",
-      "thumbnail": "41_th.png",
-      "image": "41.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 42,
-      "name": "UFC Hapi Fiesta",
-      "subTitle": " Vegetable Oil. 900 mL",
-      "details": "Pang-prito o pang-sauté! Quality vegetable oil na laging handa sa kusina!",
-      "thumbnail": "42_th.png",
-      "image": "42.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 43,
-      "name": "Del Monte Spaghetti Sauce",
-      "subTitle": "Filipino Style. 250 g",
-      "details": "Tamis-linamnam sarap! Pinoy-style spaghetti sauce na favorite ng lahat!",
-      "thumbnail": "43_th.png",
-      "image": "43.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 44,
-      "name": "Knorr Sinigang sa Sampalok Mix",
-      "subTitle": "Original. 44 g",
-      "details": "Asim-kilig sarap! The classic sinigang mix na pampagana sa kanin!",
-      "thumbnail": "44_th.png",
-      "image": "44.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 45,
-      "name": "Del Monte Ketchup",
-      "subTitle": "Original Blend. 320 g",
-      "details": "Matamis-tamis na ketchup! Laging partner ng pritong pagkain at merienda!",
-      "thumbnail": "45_th.png",
-      "image": "45.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 46,
-      "name": "Knorr Liquid Seasoning",
-      "subTitle": "Original. 250 mL",
-      "details": "Swak sa sawsawan at pang-gisa! Pampalasa na nagbibigay extra sarap sa ulam!",
-      "thumbnail": "46_th.png",
-      "image": "46.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 47,
-      "name": "UFC Banana Ketchup",
-      "subTitle": "Tamis Anghang Budget Pack. 100 g",
-      "details": "Sweet-sarap classic! Laging bida sa pritong manok at hotdog!",
-      "thumbnail": "47_th.png",
-      "image": "47.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 48,
-      "name": " Mama Sita’s Oyster Sauce",
-      "subTitle": "Mushroom Flavor. 90 g",
-      "details": "Malinamnam at savory! Pampasarap ng stir-fry, gulay, at maraming ulam!",
-      "thumbnail": "48_th.png",
-      "image": "48.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 49,
-      "name": "Royal",
-      "subTitle": "295 mL",
-      "details": "Orange sarap na refreshing! Perfect pang-tapat sa init ng araw!",
-      "thumbnail": "49_th.png",
-      "image": "49.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 50,
-      "name": "Coca-Cola",
-      "subTitle": "295 mL",
-      "details": "Ang classic na cola! Swak sa kahit anong ulam at pangtanggal umay!",
-      "thumbnail": "50_th.png",
-      "image": "50.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 51,
-      "name": "Royal",
-      "subTitle": "1.5 L",
-      "details": "Shareable orange goodness! Pang-barkada at pang-pamilya sa kainan!",
-      "thumbnail": "51_th.png",
-      "image": "51.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 52,
-      "name": "Coca-Cola",
-      "subTitle": "1.5 L",
-      "details": "Walang tatalo sa Coke! All-time favorite pang-partner ng kahit anong handaan!",
-      "thumbnail": "52_th.png",
-      "image": "52.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 53,
-      "name": "Pepsi",
-      "subTitle": "1.5 L",
-      "details": "Bold cola taste! Pang-refill ng baso sa mahabang kwentuhan!",
-      "thumbnail": "53_th.png",
-      "image": "53.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 54,
-      "name": "Mountain Dew",
-      "subTitle": "1.5 L",
-      "details": "Zesty lemon-lime drink! Perfect pang-refresh sa gaming at bonding time!",
-      "thumbnail": "54_th.png",
-      "image": "54.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 55,
-      "name": "Zest-O",
-      "subTitle": "Orange Juice 200 mL",
-      "details": "Matamis at refreshing mango drink na laging panalo sa baon!",
-      "thumbnail": "55_th.png",
-      "image": "55.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 56,
-      "name": "Zest-O",
-      "subTitle": "Mango Juice 200 mL",
-      "details": "Classic orange goodness na pampatanggal uhaw!",
-      "thumbnail": "56_th.png",
-      "image": "56.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 57,
-      "name": "Zest-O",
-      "subTitle": "Apple Juice 200 mL",
-      "details": "Sweet and crisp apple flavor na masarap sa kahit anong oras!",
-      "thumbnail": "57_th.png",
-      "image": "57.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 58,
-      "name": "Nestlé Chuckie",
-      "subTitle": "Chocolate Milk Drink 110 mL",
-      "details": "Chocolatey drink na “masustansyang choco na gatas”! Paborito ng kids at kids-at-heart!",
-      "thumbnail": "58_th.png",
-      "image": "58.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 59,
-      "name": "Nestlé Ube Ice Cream",
-      "subTitle": "Tub. 100mL",
-      "details": "Creamy ube flavor na laging favorite ng Pinoy!",
-      "thumbnail": "59_th.png",
-      "image": "59.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 60,
-      "name": "Nestlé Chocolate Ice Cream",
-      "subTitle": "Tub. 100mL",
-      "details": "Classic chocolate flavor na creamy at satisfying!",
-      "thumbnail": "60_th.png",
-      "image": "60.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 61,
-      "name": "Nestlé Mango Ice Cream",
-      "subTitle": "Tub. 100mL",
-      "details": "Creamy mango ice cream na puno ng fruity goodness!",
-      "thumbnail": "61_th.png",
-      "image": "61.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 62,
-      "name": "Selecta Birthday 3-in-1",
-      "subTitle": "Choco, Keso, Ube. 750 mL",
-      "details": "Tatlong classic flavors sa isang tub, perfect for sharing!",
-      "thumbnail": "62_th.png",
-      "image": "62.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 63,
-      "name": "Cornetto",
-      "subTitle": "Cookies and Cream. 110 mL",
-      "details": "Crunchy cone with creamy cookies and cream filling!",
-      "thumbnail": "63_th.png",
-      "image": "63.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 64,
-      "name": "Cornetto",
-      "subTitle": "Chocolate. 110 mL",
-      "details": "Rich chocolate ice cream in a crispy cone!",
-      "thumbnail": "64_th.png",
-      "image": "64.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 65,
-      "name": "Cornetto",
-      "subTitle": "Vanilla. 110 mL",
-      "details": "Sweet strawberry ice cream topped with syrup!",
-      "thumbnail": "65_th.png",
-      "image": "65.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 66,
-      "name": "Ice Drop Pops",
-      "subTitle": "Colorful Sticks",
-      "details": "Colorful frozen treat na masaya kainin!",
-      "thumbnail": "66_th.png",
-      "image": "66.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 67,
-      "name": "Ice Candy",
-      "subTitle": "Assorted Flavors",
-      "details": "Simple frozen delight na pampalamig sa init!",
-      "thumbnail": "67_th.png",
-      "image": "67.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 68,
-      "name": "VFresh Gum",
-      "subTitle": "3.2 g",
-      "details": "Cool and fresh minty gum na pampabango ng hininga!",
-      "thumbnail": "68_th.png",
-      "image": "68.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 69,
-      "name": "Potchi Gummy Bears",
-      "subTitle": "3 g",
-      "details": "Sweet and chewy gummy bears na colorful at masarap!\n",
-      "thumbnail": "69_th.png",
-      "image": "69.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 70,
-      "name": "Mentos Mini Mint Roll",
-      "subTitle": "10.5 g",
-      "details": "Minty and fresh candies na perfect anytime!\n",
-      "thumbnail": "70_th.png",
-      "image": "70.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 71,
-      "name": "Choko-Choko",
-      "subTitle": "7 g",
-      "details": "Choco-filled stick na masarap higupin at kainin!",
-      "thumbnail": "71_th.png",
-      "image": "71.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 72,
-      "name": "Fres Mint Candy",
-      "subTitle": "Assorted Flavors. 3 g",
-      "details": "Mint candies in cherry, apple, grape, and barley flavors!\n",
-      "thumbnail": "72_th.png",
-      "image": "72.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 73,
-      "name": "Pintoora Gum Ball",
-      "subTitle": "3.2 g",
-      "details": "Classic gum balls na makulay at matagal nguyain!",
-      "thumbnail": "73_th.png",
-      "image": "73.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 74,
-      "name": "XO Candy",
-      "subTitle": "3.5 g",
-      "details": "Coffee and chocolate hard candy na rich and flavorful!",
-      "thumbnail": "74_th.png",
-      "image": "74.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 75,
-      "name": "Mentos",
-      "subTitle": "Assorted Fruits 2 g",
-      "details": "Fruity, chewy, at fresh. Candy na laging masaya!",
-      "thumbnail": "75_th.png",
-      "image": "75.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 76,
-      "name": "Mentos Rainbow Mini Roll",
-      "subTitle": "10 g",
-      "details": "Colorful fruity chews na puno ng saya!",
-      "thumbnail": "76_th.png",
-      "image": "76.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 77,
-      "name": "Maxx Candy",
-      "subTitle": "4 g",
-      "details": "Fruity-menthol candy na malamig sa bibig!",
-      "thumbnail": "77_th.png",
-      "image": "77.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 78,
-      "name": "Yakee Gum Ball",
-      "subTitle": "5.2 g",
-      "details": "Sobrang asim na nakakakilig! Tamis-asim na trip ng lahat!",
-      "thumbnail": "78_th.png",
-      "image": "78.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 79,
-      "name": "Potchi",
-      "subTitle": "Strawberry Cream 2.7 g",
-      "details": "Sweet and creamy strawberry-flavored candy na chewy at sarap!",
-      "thumbnail": "79_th.png",
-      "image": "79.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 80,
-      "name": "Mik-Mik",
-      "subTitle": "Sweetened Powder. 5 g",
-      "details": "Pulbos na matamis na ini-straw o diretsong dila! Childhood favorite na laging nakatutuwa!",
-      "thumbnail": "80_th.png",
-      "image": "80.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 81,
-      "name": "Oishi Bread Pan",
-      "subTitle": "Cheese and Onion. 42g, 24g",
-      "details": "Crunchy mini toasts with tasty flavors!",
-      "thumbnail": "81_th.png",
-      "image": "81.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 82,
-      "name": "Presto Creams",
-      "subTitle": "Chocolate 30g",
-      "details": "Chocolate cream-filled biscuits na laging masarap!",
-      "thumbnail": "82_th.png",
-      "image": "82.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 83,
-      "name": "Presto Creams",
-      "subTitle": "Peanut Butter 30g",
-      "details": "Peanut butter cream-filled biscuits for nutty goodness!",
-      "thumbnail": "83_th.png",
-      "image": "83.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 84,
-      "name": "Boy Bawang Cornick",
-      "subTitle": "Garlic Flavor 500g",
-      "details": "Crunchy corn snack na puno ng bawang sarap!",
-      "thumbnail": "84_th.png",
-      "image": "84.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 85,
-      "name": "Stick-O",
-      "subTitle": "4 pieces 30g",
-      "details": "Crunchy wafer sticks with sweet chocolate filling!",
-      "thumbnail": "85_th.png",
-      "image": "85.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 86,
-      "name": "Oishi Pillows",
-      "subTitle": "Choco Flavor 24g",
-      "details": "Crispy pillows na may creamy choco surprise!",
-      "thumbnail": "86_th.png",
-      "image": "86.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 87,
-      "name": "Nissin Wafer",
-      "subTitle": "Vanilla Flavor 12g",
-      "details": "Light and sweet vanilla-flavored wafer treat!",
-      "thumbnail": "87_th.png",
-      "image": "87.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 88,
-      "name": "Nissin Wafer",
-      "subTitle": "Choco Flavor 12g",
-      "details": "Classic chocolate wafer na paborito ng lahat!",
-      "thumbnail": "88_th.png",
-      "image": "88.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 89,
-      "name": "Choco Mallows",
-      "subTitle": "100g",
-      "details": "Chocolate-covered marshmallow biscuit na fluffy at sarap!",
-      "thumbnail": "89_th.png",
-      "image": "89.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 90,
-      "name": "Rebisco Sandwich",
-      "subTitle": "32g",
-      "details": "Creamy sandwich biscuits in fruity and choco flavors!",
-      "thumbnail": "90_th.png",
-      "image": "90.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 91,
-      "name": "Hi-Ro",
-      "subTitle": "80g",
-      "details": "Pinoy version ng cookies and cream sandwich na sulit!",
-      "thumbnail": "91_th.png",
-      "image": "91.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 92,
-      "name": "Whatta Tops",
-      "subTitle": "35g x 10",
-      "details": "Soft cupcake na may cookies and cream topping!",
-      "thumbnail": "92_th.png",
-      "image": "92.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 93,
-      "name": "SkyFlakes Crackers",
-      "subTitle": "25g x 24",
-      "details": "Classic plain crackers na swak kahit saan!",
-      "thumbnail": "93_th.png",
-      "image": "93.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 94,
-      "name": "Nissin Eggnog Cookies",
-      "subTitle": "32g",
-      "details": "Buttery cookies na gawa sa real fresh eggs!",
-      "thumbnail": "94_th.png",
-      "image": "94.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 95,
-      "name": "Oishi Pillows",
-      "subTitle": "Ube Flavor 24g",
-      "details": "Crispy pillows with creamy ube filling!",
-      "thumbnail": "95_th.png",
-      "image": "95.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 96,
-      "name": "Monde Cheese Cake",
-      "subTitle": "23g",
-      "details": "Soft cheesy cupcake na laging pampatamis ng araw!",
-      "thumbnail": "96_th.png",
-      "image": "96.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 97,
-      "name": "San Miguel Pala Pilsen",
-      "subTitle": "*18+* 320 mL",
-      "details": "Classic Pinoy beer na palaging kasama sa inuman!",
-      "thumbnail": "97_th.png",
-      "image": "97.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 98,
-      "name": "Red Horse Beer",
-      "subTitle": "*18+* 330 mL",
-      "details": "Matapang at malakas, pang-tropa sa long sessions!",
-      "thumbnail": "98_th.png",
-      "image": "98.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 99,
-      "name": "San Mig Light",
-      "subTitle": "*18+* 330 mL",
-      "details": "Light and easy to drink, swak sa chill na kwentuhan!",
-      "thumbnail": "99_th.png",
-      "image": "99.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 100,
-      "name": "San Mig Apple",
-      "subTitle": "*18+* 330 mL",
-      "details": "Sweet and refreshing, paborito ng mga ayaw ng strong beer!",
-      "thumbnail": "100_th.png",
-      "image": "100.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 101,
-      "name": "Tanduay Ice",
-      "subTitle": "*18+* 330 mL",
-      "details": "Cooler drink na sweet and fizzy, masarap pang-chill!",
-      "thumbnail": "101_th.png",
-      "image": "101.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 102,
-      "name": "Smirnoff Mule",
-      "subTitle": "*18+* All Flavors 330 mL",
-      "details": "Vodka mix na may ginger beer twist, sosyal na ready-to-drink!",
-      "thumbnail": "102_th.png",
-      "image": "102.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 103,
-      "name": "Colt 45",
-      "subTitle": "*18+* 16 oz (473.18 mL)",
-      "details": "Affordable strong beer na pang-hataw sa inuman!",
-      "thumbnail": "103_th.png",
-      "image": "103.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 104,
-      "name": "Heineken",
-      "subTitle": "*18+* 500 mL",
-      "details": "Premium lager na crisp at refreshing, pang-imported vibes!",
-      "thumbnail": "104_th.png",
-      "image": "104.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 105,
-      "name": "Budweiser",
-      "subTitle": "*18+* 330 mL",
-      "details": "Iconic American beer na smooth and easy to drink!",
-      "thumbnail": "105_th.png",
-      "image": "105.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    },
-    {
-      "productId": 106,
-      "name": "Corona Extra",
-      "subTitle": "*18+* 330 mL",
-      "details": "Mexican beer na perfect kasama ng lime slice!",
-      "thumbnail": "106_th.png",
-      "image": "106.png",
-      "price": 1,
-      "isNew": false,
-      "isFeatured": false
-    }
-  ]
+	{
+		"productId": 1,
+		"name": "Century Tuna Flakes",
+		"subTitle": "Hot And Spicy. 180 g",
+		"details": "Healthy na, spicy pa! Perfect pampagana at pampabusog!",
+		"price": 48,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 2,
+		"name": "555 Sardines Spanish Style",
+		"subTitle": "155 g",
+		"details": "Sosyal na sardinas with Spanish flavor! Sarap sa pasta, tinapay, o kanin!",
+		"price": 33.5,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 3,
+		"name": "Spam Luncheon Meat",
+		"subTitle": "Regular. 12 oz",
+		"details": "The all-time favorite ulam! Juicy, meaty, at laging masarap!",
+		"price": 218,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 4,
+		"name": "Clover Chips",
+		"subTitle": "Cheese. 55 g",
+		"details": "Cheesy goodness in every bite! Laging kasama sa kwentuhan at inuman!",
+		"price": 25.25,
+		"isNew": false,
+		"isFeatured": true
+	},
+	{
+		"productId": 5,
+		"name": "Roller Coaster",
+		"subTitle": "Cheddar Cheese Rings. 85 g",
+		"details": "Fun-to-eat cheese rings! Suotin sa daliri tapos kainin, enjoy to the max!",
+		"price": 24.95,
+		"isNew": false,
+		"isFeatured": true
+	},
+	{
+		"productId": 6,
+		"name": "Ricoa Flat Tops",
+		"subTitle": "50 g",
+		"details": "Chocolate na melt-in-your-mouth ang sarap! Laging kasama sa childhood memories!",
+		"price": 17.3,
+		"isNew": false,
+		"isFeatured": true
+	},
+	{
+		"productId": 7,
+		"name": "Judge Chewing Gum",
+		"subTitle": "Bricks Spearmint. 3.4 g",
+		"details": "Big, long-lasting chewing gum na swak pang-pafresh ng hininga!",
+		"price": 42.35,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 8,
+		"name": "San Marino Corned Tuna",
+		"subTitle": "180 g",
+		"details": "Tuna na parang corned beef! Tipid, healthy at swak sa kanin!",
+		"price": 46.5,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 9,
+		"name": "Alaska Evaporated Milk",
+		"subTitle": "Classic Evaporated Filled Milk. 140 mL",
+		"details": "Creamy goodness in every sip! Pampasarap sa kape, sabaw, at lutuin!",
+		"price": 59.7,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 10,
+		"name": "Alaska Condensed Milk",
+		"subTitle": "Classic Sweetened Filled Milk. 168 mL",
+		"details": "Sweet and yummy! Pang-dessert, pang-merienda, o kahit tikim direkta!",
+		"price": 48.3,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 11,
+		"name": "Jolly Mushrooms",
+		"subTitle": "Pieces & Stems. 115 g",
+		"details": "Level up ang ulam mo! Pizza, pasta, o gulay, dagdag sarap agad!",
+		"price": 30.52,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 12,
+		"name": "555 Sardines",
+		"subTitle": "Sardines in Tomato Sauce (Hot). 180 g",
+		"details": "Paboritong spicy sardinas ng Pinoy! Laging panalo sa kanin fight!",
+		"price": 27,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 13,
+		"name": "Purefoods Corned Beef",
+		"subTitle": "Classic Corned Beef. 150 g",
+		"details": "Classic na corned beef! Malasa, chunky at perfect sa garlic rice!",
+		"price": 55.25,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 14,
+		"name": "Argentina Corned Beef",
+		"subTitle": "Classic Corned Beef. 100 g",
+		"details": "Sulit na sulit sa presyo! Masarap sa breakfast o midnight snack!",
+		"price": 37.5,
+		"isNew": true,
+		"isFeatured": false
+	},
+	{
+		"productId": 15,
+		"name": "MaLing Luncheon Meat",
+		"subTitle": "Chicken Luncheon Meat. 397 g",
+		"details": "Juicy at malinamnam! Laging hit kapag pritong ulam ang usapan!\n",
+		"price": 120,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 16,
+		"name": "Jack 'n Jill Chicharron ni Mang Juan",
+		"subTitle": "Espesyal Suka't Sili. 26 g",
+		"details": "Chicharon na walang pork! Maasim, maanghang at sobrang crunchy!",
+		"price": 18,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 17,
+		"name": "Oishi Marty's Cracklin'",
+		"subTitle": "Plain Salted. 90 g",
+		"details": "Chicharon-style na walang guilt! Puro crunch at sarap lang!",
+		"price": 38,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 18,
+		"name": "Jack 'n Jill Chiz Curls",
+		"subTitle": "Cheese. 18 g",
+		"details": "Classic corn curls na cheesy! Paborito ng mga bata at pang-baon lagi!",
+		"price": 10,
+		"isNew": true,
+		"isFeatured": false
+	},
+	{
+		"productId": 19,
+		"name": "Oishi Crispy Patata",
+		"subTitle": "Baked Potato. 24 g",
+		"details": "Light and crispy potato snack! Swak sa movie time o merienda!",
+		"price": 12.25,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 20,
+		"name": "Jack 'n Jill Nova",
+		"subTitle": "Country Cheddar. 40 g",
+		"details": "Cheesy multigrain goodness! Pang-snack na guilt-free ang vibe!",
+		"price": 25,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 21,
+		"name": "Jack 'n Jill Chippy",
+		"subTitle": "Barbecue Corn Chips. 25 g",
+		"details": "The barkada favorite! Barbecue flavor na laging hit sa tambayan!",
+		"price": 15,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 22,
+		"name": "Jack 'n Jill Piattos",
+		"subTitle": "Cheese. 40 g",
+		"details": "Diamond-shaped cheesy chips! Sosyal ang itsura, sarap pa rin pang-meryenda!\n",
+		"price": 25,
+		"isNew": false,
+		"isFeatured": true
+	},
+	{
+		"productId": 23,
+		"name": "Oishi Prawn Crackers",
+		"subTitle": "Prawn Crackers. 24 g",
+		"details": "Light and crispy prawn crackers! Laging Pinoy favorite!",
+		"price": 12,
+		"isNew": true,
+		"isFeatured": false
+	},
+	{
+		"productId": 24,
+		"name": "Jack 'n Jill Piattos",
+		"subTitle": "Cheese. 25 g",
+		"details": "Orange cheesy rings! Swak isuot sa daliri bago kainin!",
+		"price": 15,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 25,
+		"name": "Oishi Ribbed Cracklings",
+		"subTitle": "Salt &Vinegar. 90 g",
+		"details": "Maalat, maasim at crunchy! Snack na mapapapikit ka sa sarap!",
+		"price": 40,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 26,
+		"name": "Jack 'n Jill Piattos",
+		"subTitle": "Sour Cream & Onion. 40 g",
+		"details": "Piattos na may sour cream twist! Tangy, creamy at crunchy all in one!",
+		"price": 25,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 27,
+		"name": "Jack 'n Jill Piattos",
+		"subTitle": "Roast Beef. 40 g",
+		"details": "Beefy chips goodness! Parang ulam ang sarap sa bawat bite!",
+		"price": 25,
+		"isNew": false,
+		"isFeatured": true
+	},
+	{
+		"productId": 28,
+		"name": "Closeup Ever Fresh Toothpaste",
+		"subTitle": "Red Hot. 10 g",
+		"details": "Fresh breath all day! Minty toothpaste na laging panalo sa smile mo!",
+		"price": 115,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 29,
+		"name": "Palmolive Naturals Shampoo and Conditioner",
+		"subTitle": "Coconut Cream Sachet Pack. 15 mL",
+		"details": "Smooth and soft skin feels! Mabango at refreshing sa bawat paligo!",
+		"price": 10,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 30,
+		"name": "Joy Dishwashing Liquid",
+		"subTitle": "Kalamansi Refill. 355 mL",
+		"details": "Tanggal sebo, mabango pa! Konti lang, todo bula na sa hugasin!",
+		"price": 69,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 31,
+		"name": "Ariel Powder",
+		"subTitle": "Sunrise Fresh Powder Tripid Pack. 66 g",
+		"details": "Doble laba, doble linis! Amoy fresh at super linis ng labada!",
+		"price": 27,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 32,
+		"name": "Pantene Shampoo",
+		"subTitle": "Hair Fall Control Sachet Pack. 12 mL",
+		"details": "Bye-bye hair fall! Strong and shiny hair na amoy bango all day!",
+		"price": 10,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 33,
+		"name": "Safeguard Soap",
+		"subTitle": "Jumbo Bar - Pure White. 160 g",
+		"details": "99.9% germ protection! Matibay sa germs, mabango sa katawan!",
+		"price": 75,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 34,
+		"name": "Downy Fabric Conditioner",
+		"subTitle": "Sunrise Fresh Tripic Pack. 3 x 75mL",
+		"details": "Super bango ng labada! Amoy fresh kahit ilang araw naka-fold!",
+		"price": 45,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 35,
+		"name": "Pride Detergent Powder",
+		"subTitle": "Blue Pack. 40 g",
+		"details": "Tanggal mantsa at amoy fresh! Trusted panglaba ng maraming Pinoy!",
+		"price": 10,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 36,
+		"name": "Tide Bar",
+		"subTitle": "Original Scent. 125 g",
+		"details": "Matibay sa mantsa! Paborito sa kusot-kusot na labada!",
+		"price": 28,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 37,
+		"name": "Zonrox Bleach",
+		"subTitle": "Original. 250 mL",
+		"details": "Pangtanggal ng mantsa at germs! Siguradong linis at puti ng labada!\n",
+		"price": 20,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 38,
+		"name": "Knorr Chicken Broth Cube",
+		"subTitle": "Chicken. 10 g",
+		"details": "Palaman sa sabaw at luto! Rich chicken flavor na nagpapasarap ng kahit anong ulam!",
+		"price": 10,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 39,
+		"name": "Knorr Beef Broth Cube",
+		"subTitle": "Beef. 10 g",
+		"details": "Malinamnam na beefy taste! Perfect pampalasa sa nilaga at iba pang lutong bahay!",
+		"price": 10,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 40,
+		"name": "Knorr Pork Broth Cube",
+		"subTitle": "Pork. 10 g",
+		"details": "Rich pork flavor! Swak na pampalasa sa ginisa at sabaw!",
+		"price": 10,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 41,
+		"name": "Del Monte Tomato Sauce",
+		"subTitle": "Original Style. 250 g ",
+		"details": "Rich tomato goodness! Paboritong pang-gisa at pang-luto ng ulam ng Pinoy!",
+		"price": 32,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 42,
+		"name": "UFC Hapi Fiesta",
+		"subTitle": " Vegetable Oil. 900 mL",
+		"details": "Pang-prito o pang-sauté! Quality vegetable oil na laging handa sa kusina!",
+		"price": 72.5,
+		"isNew": true,
+		"isFeatured": false
+	},
+	{
+		"productId": 43,
+		"name": "Del Monte Spaghetti Sauce",
+		"subTitle": "Filipino Style. 250 g",
+		"details": "Tamis-linamnam sarap! Pinoy-style spaghetti sauce na favorite ng lahat!",
+		"price": 36,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 44,
+		"name": "Knorr Sinigang sa Sampalok Mix",
+		"subTitle": "Original. 44 g",
+		"details": "Asim-kilig sarap! The classic sinigang mix na pampagana sa kanin!",
+		"price": 22,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 45,
+		"name": "Del Monte Ketchup",
+		"subTitle": "Original Blend. 320 g",
+		"details": "Matamis-tamis na ketchup! Laging partner ng pritong pagkain at merienda!",
+		"price": 38,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 46,
+		"name": "Knorr Liquid Seasoning",
+		"subTitle": "Original. 250 mL",
+		"details": "Swak sa sawsawan at pang-gisa! Pampalasa na nagbibigay extra sarap sa ulam!",
+		"price": 69,
+		"isNew": true,
+		"isFeatured": false
+	},
+	{
+		"productId": 47,
+		"name": "UFC Banana Ketchup",
+		"subTitle": "Tamis Anghang Budget Pack. 100 g",
+		"details": "Sweet-sarap classic! Laging bida sa pritong manok at hotdog!",
+		"price": 12,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 48,
+		"name": " Mama Sita’s Oyster Sauce",
+		"subTitle": "Mushroom Flavor. 90 g",
+		"details": "Malinamnam at savory! Pampasarap ng stir-fry, gulay, at maraming ulam!",
+		"price": 22,
+		"isNew": true,
+		"isFeatured": false
+	},
+	{
+		"productId": 49,
+		"name": "Royal",
+		"subTitle": "320 mL",
+		"details": "Orange sarap na refreshing! Perfect pang-tapat sa init ng araw!",
+		"price": 22,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 50,
+		"name": "Coca-Cola",
+		"subTitle": "295 mL",
+		"details": "Ang classic na cola! Swak sa kahit anong ulam at pangtanggal umay!",
+		"price": 22,
+		"isNew": false,
+		"isFeatured": true
+	},
+	{
+		"productId": 51,
+		"name": "Royal",
+		"subTitle": "1.5 L",
+		"details": "Shareable orange goodness! Pang-barkada at pang-pamilya sa kainan!",
+		"price": 82,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 52,
+		"name": "Coca-Cola",
+		"subTitle": "1.5 L",
+		"details": "Walang tatalo sa Coke! All-time favorite pang-partner ng kahit anong handaan!",
+		"price": 82,
+		"isNew": false,
+		"isFeatured": true
+	},
+	{
+		"productId": 53,
+		"name": "Pepsi",
+		"subTitle": "1.5 L",
+		"details": "Bold cola taste! Pang-refill ng baso sa mahabang kwentuhan!",
+		"price": 78,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 54,
+		"name": "Mountain Dew",
+		"subTitle": "1.5 L",
+		"details": "Zesty lemon-lime drink! Perfect pang-refresh sa gaming at bonding time!",
+		"price": 78,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 55,
+		"name": "Zest-O",
+		"subTitle": "Orange Juice 200 mL",
+		"details": "Matamis at refreshing mango drink na laging panalo sa baon!",
+		"price": 10,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 56,
+		"name": "Zest-O",
+		"subTitle": "Mango Juice 200 mL",
+		"details": "Classic orange goodness na pampatanggal uhaw!",
+		"price": 10,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 57,
+		"name": "Zest-O",
+		"subTitle": "Apple Juice 200 mL",
+		"details": "Sweet and crisp apple flavor na masarap sa kahit anong oras!",
+		"price": 10,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 58,
+		"name": "Nestlé Chuckie",
+		"subTitle": "Chocolate Milk Drink 110 mL",
+		"details": "Chocolatey drink na “masustansyang choco na gatas”! Paborito ng kids at kids-at-heart!",
+		"price": 21,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 59,
+		"name": "Nestlé Ube Ice Cream",
+		"subTitle": "Tub. 100mL",
+		"details": "Creamy ube flavor na laging favorite ng Pinoy!",
+		"price": 36,
+		"isNew": true,
+		"isFeatured": false
+	},
+	{
+		"productId": 60,
+		"name": "Nestlé Chocolate Ice Cream",
+		"subTitle": "Tub. 100mL",
+		"details": "Classic chocolate flavor na creamy at satisfying!",
+		"price": 36,
+		"isNew": true,
+		"isFeatured": false
+	},
+	{
+		"productId": 61,
+		"name": "Nestlé Mango Ice Cream",
+		"subTitle": "Tub. 100mL",
+		"details": "Creamy mango ice cream na puno ng fruity goodness!",
+		"price": 36,
+		"isNew": true,
+		"isFeatured": false
+	},
+	{
+		"productId": 62,
+		"name": "Selecta Birthday 3-in-1",
+		"subTitle": "Choco, Keso, Ube. 750 mL",
+		"details": "Tatlong classic flavors sa isang tub, perfect for sharing!",
+		"price": 210,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 63,
+		"name": "Cornetto",
+		"subTitle": "Cookies and Cream. 110 mL",
+		"details": "Crunchy cone with creamy cookies and cream filling!",
+		"price": 40,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 64,
+		"name": "Cornetto",
+		"subTitle": "Chocolate. 110 mL",
+		"details": "Rich chocolate ice cream in a crispy cone!",
+		"price": 40,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 65,
+		"name": "Cornetto",
+		"subTitle": "Vanilla. 110 mL",
+		"details": "Sweet strawberry ice cream topped with syrup!",
+		"price": 40,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 66,
+		"name": "Ice Drop Pops",
+		"subTitle": "Colorful Sticks",
+		"details": "Colorful frozen treat na masaya kainin!",
+		"price": 10,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 67,
+		"name": "Ice Candy",
+		"subTitle": "Assorted Flavors",
+		"details": "Simple frozen delight na pampalamig sa init!",
+		"price": 5,
+		"isNew": false,
+		"isFeatured": true
+	},
+	{
+		"productId": 68,
+		"name": "VFresh Gum",
+		"subTitle": "3.2 g",
+		"details": "Cool and fresh minty gum na pampabango ng hininga!",
+		"price": 3,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 69,
+		"name": "Potchi Gummy Bears",
+		"subTitle": "3 g",
+		"details": "Sweet and chewy gummy bears na colorful at masarap!\n",
+		"price": 3,
+		"isNew": true,
+		"isFeatured": false
+	},
+	{
+		"productId": 70,
+		"name": "Mentos Mini Mint Roll",
+		"subTitle": "10.5 g",
+		"details": "Minty and fresh candies na perfect anytime!\n",
+		"price": 14,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 71,
+		"name": "Choko-Choko",
+		"subTitle": "7 g",
+		"details": "Choco-filled stick na masarap higupin at kainin!",
+		"price": 3,
+		"isNew": false,
+		"isFeatured": true
+	},
+	{
+		"productId": 72,
+		"name": "Fres Mint Candy",
+		"subTitle": "Assorted Flavors. 3 g",
+		"details": "Mint candies in cherry, apple, grape, and barley flavors!\n",
+		"price": 1,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 73,
+		"name": "Pintoora Gum Ball",
+		"subTitle": "3.2 g",
+		"details": "Classic gum balls na makulay at matagal nguyain!",
+		"price": 1.5,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 74,
+		"name": "XO Candy",
+		"subTitle": "3.5 g",
+		"details": "Coffee and chocolate hard candy na rich and flavorful!",
+		"price": 1,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 75,
+		"name": "Mentos",
+		"subTitle": "Assorted Fruits 2 g",
+		"details": "Fruity, chewy, at fresh. Candy na laging masaya!",
+		"price": 1,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 76,
+		"name": "Mentos Rainbow Mini Roll",
+		"subTitle": "10 g",
+		"details": "Colorful fruity chews na puno ng saya!",
+		"price": 15,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 77,
+		"name": "Jack 'n Jill Maxx",
+		"subTitle": "4 g",
+		"details": "Fruity-menthol candy na malamig sa bibig!",
+		"price": 1,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 78,
+		"name": "Yakee Gum Ball",
+		"subTitle": "5.2 g",
+		"details": "Sobrang asim na nakakakilig! Tamis-asim na trip ng lahat!",
+		"price": 1.5,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 79,
+		"name": "Potchi",
+		"subTitle": "Strawberry Cream 2.7 g",
+		"details": "Sweet and creamy strawberry-flavored candy na chewy at sarap!",
+		"price": 1,
+		"isNew": false,
+		"isFeatured": true
+	},
+	{
+		"productId": 80,
+		"name": "Mik-Mik",
+		"subTitle": "Sweetened Powder. 5 g",
+		"details": "Pulbos na matamis na ini-straw o diretsong dila! Childhood favorite na laging nakatutuwa!",
+		"price": 3,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 81,
+		"name": "Oishi Bread Pan",
+		"subTitle": "Cheese and Onion. 24g",
+		"details": "Crunchy mini toasts with tasty flavors!",
+		"price": 6.95,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 82,
+		"name": "Jack 'n Jill Presto Creams",
+		"subTitle": "Chocolate. 30g",
+		"details": "Chocolate cream-filled biscuits na laging masarap!",
+		"price": 6.43,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 83,
+		"name": "Jack 'n Jill Presto Creams",
+		"subTitle": "Peanut Butter. 30g",
+		"details": "Peanut butter cream-filled biscuits for nutty goodness!",
+		"price": 6.43,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 84,
+		"name": "Boy Bawang Cornick",
+		"subTitle": "Garlic Flavor. 100g",
+		"details": "Crunchy corn snack na puno ng bawang sarap!",
+		"price": 31.5,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 85,
+		"name": "Stick-O",
+		"subTitle": "4 pieces. 30g",
+		"details": "Crunchy wafer sticks with sweet chocolate filling!",
+		"price": 8,
+		"isNew": false,
+		"isFeatured": true
+	},
+	{
+		"productId": 86,
+		"name": "Oishi Pillows",
+		"subTitle": "Choco Flavor. 38g",
+		"details": "Crispy pillows na may creamy choco surprise!",
+		"price": 9.3,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 87,
+		"name": "Nissin Wafer",
+		"subTitle": "Vanilla Flavor. 12g",
+		"details": "Light and sweet vanilla-flavored wafer treat!",
+		"price": 5.56,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 88,
+		"name": "Nissin Wafer",
+		"subTitle": "Choco Flavor. 12g",
+		"details": "Classic chocolate wafer na paborito ng lahat!",
+		"price": 5.56,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 89,
+		"name": "Fibisco Choco Mallows",
+		"subTitle": "100g",
+		"details": "Chocolate-covered marshmallow biscuit na fluffy at sarap!",
+		"price": 37.65,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 90,
+		"name": "Rebisco Sandwich",
+		"subTitle": "32g",
+		"details": "Creamy sandwich biscuits in fruity and choco flavors!",
+		"price": 6.6,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 91,
+		"name": "Fibisco Hi-Ro",
+		"subTitle": "80g",
+		"details": "Pinoy version ng cookies and cream sandwich na sulit!",
+		"price": 6.3,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 92,
+		"name": "Lemon Square Whatta Tops",
+		"subTitle": "35g",
+		"details": "Soft cupcake na may cookies and cream topping!",
+		"price": 8.3,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 93,
+		"name": "M. Y. San SkyFlakes Crackers",
+		"subTitle": "25g",
+		"details": "Classic plain crackers na swak kahit saan!",
+		"price": 6.4,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 94,
+		"name": "Nissin Eggnog Cookies",
+		"subTitle": "32g",
+		"details": "Buttery cookies na gawa sa real fresh eggs!",
+		"price": 12,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 95,
+		"name": "Oishi Pillows",
+		"subTitle": "Ube Flavor. 38g",
+		"details": "Crispy pillows with creamy ube filling!",
+		"price": 9.3,
+		"isNew": false,
+		"isFeatured": true
+	},
+	{
+		"productId": 96,
+		"name": "Lemon Square Cheese Cake",
+		"subTitle": "Classic. 30g",
+		"details": "Soft cheesy cupcake na laging pampatamis ng araw!",
+		"price": 8.6,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 97,
+		"name": "San Miguel Pala Pilsen",
+		"subTitle": "*18+* 320 mL",
+		"details": "Classic Pinoy beer na palaging kasama sa inuman!",
+		"price": 46.5,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 98,
+		"name": "Red Horse Beer",
+		"subTitle": "*18+* 330 mL",
+		"details": "Matapang at malakas, pang-tropa sa long sessions!",
+		"price": 55,
+		"isNew": false,
+		"isFeatured": true
+	},
+	{
+		"productId": 99,
+		"name": "San Miguel Light",
+		"subTitle": "Pale Pilsen in can. *18+* 330 mL",
+		"details": "Light and easy to drink, swak sa chill na kwentuhan!",
+		"price": 55,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 100,
+		"name": "San Miguel Flavored Beer",
+		"subTitle": "Apple Flavored Beer in can. *18+* 330 mL",
+		"details": "Sweet and refreshing, paborito ng mga ayaw ng strong beer!",
+		"price": 53,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 101,
+		"name": "Tanduay Ice",
+		"subTitle": "Original. *18+* 330 mL",
+		"details": "Cooler drink na sweet and fizzy, masarap pang-chill!",
+		"price": 34,
+		"isNew": true,
+		"isFeatured": false
+	},
+	{
+		"productId": 102,
+		"name": "Smirnoff Mule",
+		"subTitle": "*18+* 330 mL",
+		"details": "Vodka mix na may ginger beer twist, sosyal na ready-to-drink!",
+		"price": 49,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 103,
+		"name": "Colt 45",
+		"subTitle": "*18+* 16 oz (473.18 mL)",
+		"details": "Affordable strong beer na pang-hataw sa inuman!",
+		"price": 36,
+		"isNew": true,
+		"isFeatured": false
+	},
+	{
+		"productId": 104,
+		"name": "Heineken",
+		"subTitle": "*18+* 500 mL",
+		"details": "Premium lager na crisp at refreshing, pang-imported vibes!",
+		"price": 76,
+		"isNew": false,
+		"isFeatured": false
+	},
+	{
+		"productId": 105,
+		"name": "Budweiser",
+		"subTitle": "*18+* 330 mL",
+		"details": "Iconic American beer na smooth and easy to drink!",
+		"price": 71,
+		"isNew": true,
+		"isFeatured": false
+	},
+	{
+		"productId": 106,
+		"name": "Corona Extra",
+		"subTitle": "*18+* 330 mL",
+		"details": "Mexican beer na perfect kasama ng lime slice!",
+		"price": 90,
+		"isNew": false,
+		"isFeatured": false
+	}
+]

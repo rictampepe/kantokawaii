@@ -1,13 +1,5 @@
 @charset "utf-8";
 
-/* ------------------------------------------------------------------
- * Name         : Gambo - Online Grocery Supermarket HTML Template
- * File         : style.css
- * Author       : Gambolthemes
- * Author URI   : gambol943@gmail.com
- * All Rights Reserved.
- * --------------------------------------------------------------------- */
-
 /*===================== TABLE OF CONTENT =======================
 
 1. Google Fonts
@@ -492,6 +484,10 @@ input[type=text] {
 }
 
 .gambo-head {
+    height: 60px;
+}
+
+.kanto-head {
     height: 60px;
 }
 
@@ -2063,10 +2059,14 @@ i.icon1 {
 
 /* --- Slider Category --- */
 
-.section145 {
+.slider-section {
     padding: 65px 0 0;
 	width: 100%;
 	display: block;
+}
+
+.slider-section .spinner-border {
+    --bs-spinner-animation-speed: 0.8s !important;
 }
 
 .main-title-tt {
@@ -2676,7 +2676,6 @@ img.download-btn {
 
 .gambo-Breadcrumb:before {
     content: "";
-    background: url(../images/career/default.jpg) no-repeat center;
     left: 0;
     right: 0;
     top: 0;
@@ -3142,6 +3141,10 @@ span.save-icon {
     font-weight: 400;
     font-size: 12px;
 	border-radius: 5px;
+}
+
+.add-cart-btn-sm.disabled {
+    background: #f39373;
 }
 
 .add-cart-btn-xs {
