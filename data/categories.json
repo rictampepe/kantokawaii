@@ -16,7 +16,7 @@
     },        
     {
         "categoryId": 4,
-        "name": "Begerages",
+        "name": "Beverages",
         "productIds": [49,50,51,52,53,54,55,56,57,58]
     },
     {
@@ -39,4 +39,5 @@
         "name": "Cleaning & Toiletries",
         "productIds": [28,29,30,31,32,33,34,35,36,37]
     }
+
 ]
